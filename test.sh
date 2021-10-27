@@ -1,4 +1,4 @@
-echo "Hi from Github"
+echo "Hi from Github second code"
 date
 echo " "
 ls
